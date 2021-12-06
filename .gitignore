@@ -1,3 +1,10 @@
+# IDE
+.idea
+cmake-build-*
+
+# Apple
+.DS_Store
+
 # Prerequisites
 *.d
 
