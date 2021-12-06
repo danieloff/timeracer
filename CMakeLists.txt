@@ -3,4 +3,6 @@ project(MyApplication)
 
 set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/modules/" ${CMAKE_MODULE_PATH})
 
+add_subdirectory(vendor)
+
 add_subdirectory(src)

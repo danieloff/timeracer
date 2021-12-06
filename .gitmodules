@@ -1,0 +1,6 @@
+[submodule "vendor/magnum"]
+	path = vendor/magnum
+	url = https://github.com/mosra/magnum
+[submodule "vendor/corrade"]
+	path = vendor/corrade
+	url = https://github.com/mosra/corrade
